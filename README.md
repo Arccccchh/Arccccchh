@@ -3,8 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ermanfaminiano&label=Profile%20views&color=0e75b6&style=flat" alt="ermanfaminiano" /> </p>
 
 - Founder of *studevph*
-- 🔭 I’m currently working on [Wedding Invitation](#)
-- 🌱 I’m currently learning *Angular JS, Angular, TypeScript, React JS*
+
+- 🌱 I’m currently an IT student
 - 📫 How to reach me *ermanfaminiano020@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
