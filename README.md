@@ -5,11 +5,11 @@
 - Founder of *studevph*
 
 - 🌱 I’m currently an IT student
-- 📫 How to reach me *ermanfaminiano020@gmail.com*
+- 📫 How to reach me *adobasarcangelo@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/o.narra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="o.narra" height="30" width="40" /></a>
+<a href="https://www.facebook.com/arcangelo.adobas.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="o.narra" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
